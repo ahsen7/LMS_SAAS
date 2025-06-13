@@ -1,6 +1,6 @@
 import CTA from '@/components/Buttons/CTA'
 import CompanionCards from '@/components/Cards/CompanionCards'
-import CompanionList from '@/components/pages/Home/CompanionList'
+import CompanionList from '@/components/Pages/Home/CompanionList'
 import { recentSessions } from '@/constants'
 
 
